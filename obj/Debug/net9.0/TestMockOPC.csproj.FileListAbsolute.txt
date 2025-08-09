@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\TestMockOPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\TestMockOPC.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\TestMockOPC.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\TestMockOPC.csproj.CoreCompileInputs.cache

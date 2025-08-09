@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\bin\Debug\net9.0-windows\OpcServerList.exe
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\bin\Debug\net9.0-windows\OpcServerList.deps.json
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\bin\Debug\net9.0-windows\OpcServerList.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\bin\Debug\net9.0-windows\OpcServerList.dll
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\bin\Debug\net9.0-windows\OpcServerList.pdb
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\OpcServerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\OpcServerList.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\OpcServerList.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\OpcServerList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\OpcServerList.dll
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\refint\OpcServerList.dll
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\OpcServerList.pdb
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\OpcServerList.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\OpcServerList\obj\Debug\net9.0-windows\ref\OpcServerList.dll

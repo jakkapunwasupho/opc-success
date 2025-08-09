@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\bin\Debug\net9.0\RealOpcNet.exe
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\bin\Debug\net9.0\RealOpcNet.deps.json
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\bin\Debug\net9.0\RealOpcNet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\bin\Debug\net9.0\RealOpcNet.dll
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\bin\Debug\net9.0\RealOpcNet.pdb
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\RealOpcNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\RealOpcNet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\RealOpcNet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\RealOpcNet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\RealOpcNet.dll
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\refint\RealOpcNet.dll
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\RealOpcNet.pdb
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\RealOpcNet.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\RealOpcNet\obj\Debug\net9.0\ref\RealOpcNet.dll

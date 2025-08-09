@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\bin\Debug\net9.0-windows\CertAuth.exe
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\bin\Debug\net9.0-windows\CertAuth.deps.json
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\bin\Debug\net9.0-windows\CertAuth.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\bin\Debug\net9.0-windows\CertAuth.dll
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\bin\Debug\net9.0-windows\CertAuth.pdb
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\CertAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\CertAuth.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\CertAuth.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\CertAuth.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\CertAuth.dll
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\refint\CertAuth.dll
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\CertAuth.pdb
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\CertAuth.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\CertAuth\obj\Debug\net9.0-windows\ref\CertAuth.dll

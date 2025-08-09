@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "Quick.OpcComRcw/2.1.108": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/OpcComRcw.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/OpcComRcw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quick.OpcComRcw/2.1.108": {
+      "sha512": "u6heNEOVn2WC7JykhiW0lM1MhcpT0ywEYcLEubbnu1Aoj/wdGgQ6xlt4EO9tYtGkZXXHVyRMmLgYCzJH3HX3Ag==",
+      "type": "package",
+      "path": "quick.opccomrcw/2.1.108",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/OpcComRcw.dll",
+        "lib/net40/OpcComRcw.dll",
+        "lib/net46/OpcComRcw.dll",
+        "lib/netstandard2.0/OpcComRcw.dll",
+        "lib/netstandard2.1/OpcComRcw.dll",
+        "quick.opccomrcw.2.1.108.nupkg.sha512",
+        "quick.opccomrcw.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "Quick.OpcComRcw >= 2.1.108"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\testOPC\\ComInteropTest\\ComInteropTest.csproj",
+      "projectName": "ComInteropTest",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\testOPC\\ComInteropTest\\ComInteropTest.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\testOPC\\ComInteropTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "dependencies": {
+          "Quick.OpcComRcw": {
+            "target": "Package",
+            "version": "[2.1.108, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

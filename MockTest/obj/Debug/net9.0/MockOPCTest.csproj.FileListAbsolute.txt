@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\MockTest\bin\Debug\net9.0\MockOPCTest.exe
+C:\Users\Lenovo\Desktop\testOPC\MockTest\bin\Debug\net9.0\MockOPCTest.deps.json
+C:\Users\Lenovo\Desktop\testOPC\MockTest\bin\Debug\net9.0\MockOPCTest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\MockTest\bin\Debug\net9.0\MockOPCTest.dll
+C:\Users\Lenovo\Desktop\testOPC\MockTest\bin\Debug\net9.0\MockOPCTest.pdb
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\MockOPCTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\MockOPCTest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\MockOPCTest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\MockOPCTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\MockOPCTest.dll
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\refint\MockOPCTest.dll
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\MockOPCTest.pdb
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\MockOPCTest.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\MockTest\obj\Debug\net9.0\ref\MockOPCTest.dll

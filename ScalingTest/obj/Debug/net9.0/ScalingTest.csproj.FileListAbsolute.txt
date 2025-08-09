@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\bin\Debug\net9.0\ScalingTest.exe
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\bin\Debug\net9.0\ScalingTest.deps.json
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\bin\Debug\net9.0\ScalingTest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\bin\Debug\net9.0\ScalingTest.dll
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\bin\Debug\net9.0\ScalingTest.pdb
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ScalingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ScalingTest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ScalingTest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ScalingTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ScalingTest.dll
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\refint\ScalingTest.dll
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ScalingTest.pdb
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ScalingTest.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\ScalingTest\obj\Debug\net9.0\ref\ScalingTest.dll

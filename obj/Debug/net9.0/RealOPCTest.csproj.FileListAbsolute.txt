@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\RealOPCTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\RealOPCTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\RealOPCTest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\RealOPCTest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\obj\Debug\net9.0\RealOPCTest.csproj.CoreCompileInputs.cache

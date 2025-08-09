@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\bin\Debug\net9.0\SetSpeedOne.exe
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\bin\Debug\net9.0\SetSpeedOne.deps.json
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\bin\Debug\net9.0\SetSpeedOne.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\bin\Debug\net9.0\SetSpeedOne.dll
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\bin\Debug\net9.0\SetSpeedOne.pdb
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\SetSpeedOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\SetSpeedOne.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\SetSpeedOne.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\SetSpeedOne.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\SetSpeedOne.dll
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\refint\SetSpeedOne.dll
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\SetSpeedOne.pdb
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\SetSpeedOne.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\SetSpeedOne\obj\Debug\net9.0\ref\SetSpeedOne.dll

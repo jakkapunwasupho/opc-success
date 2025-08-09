@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ScanNonZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ScanNonZero.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ScanNonZero.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ScanNonZero.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\bin\Debug\net9.0\ScanNonZero.exe
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\bin\Debug\net9.0\ScanNonZero.deps.json
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\bin\Debug\net9.0\ScanNonZero.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\bin\Debug\net9.0\ScanNonZero.dll
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\bin\Debug\net9.0\ScanNonZero.pdb
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ScanNonZero.dll
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\refint\ScanNonZero.dll
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ScanNonZero.pdb
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ScanNonZero.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\ScanNonZero\obj\Debug\net9.0\ref\ScanNonZero.dll

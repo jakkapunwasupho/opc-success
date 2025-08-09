@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\testOPC\RealTest\bin\Debug\net9.0\RealOPCTest.exe
+C:\Users\Lenovo\Desktop\testOPC\RealTest\bin\Debug\net9.0\RealOPCTest.deps.json
+C:\Users\Lenovo\Desktop\testOPC\RealTest\bin\Debug\net9.0\RealOPCTest.runtimeconfig.json
+C:\Users\Lenovo\Desktop\testOPC\RealTest\bin\Debug\net9.0\RealOPCTest.dll
+C:\Users\Lenovo\Desktop\testOPC\RealTest\bin\Debug\net9.0\RealOPCTest.pdb
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\RealOPCTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\RealOPCTest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\RealOPCTest.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\RealOPCTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\RealOPCTest.dll
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\refint\RealOPCTest.dll
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\RealOPCTest.pdb
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\RealOPCTest.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\testOPC\RealTest\obj\Debug\net9.0\ref\RealOPCTest.dll

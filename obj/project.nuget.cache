@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mae/oUOVou4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\testOPC\\RealOPCTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\quick.opccomrcw\\2.1.108\\quick.opccomrcw.2.1.108.nupkg.sha512"
+  ],
+  "logs": []
+}
