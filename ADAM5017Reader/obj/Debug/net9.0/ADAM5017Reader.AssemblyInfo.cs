@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADAM5017Reader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58d96e272352877d5d19f012afda2aaab6720b80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6adfed0a4a38f089d4d43bab441451a05ba929cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADAM5017Reader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADAM5017Reader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
