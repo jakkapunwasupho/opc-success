@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\bin\Debug\net9.0\ADAM5017Reader.exe
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\bin\Debug\net9.0\ADAM5017Reader.deps.json
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\bin\Debug\net9.0\ADAM5017Reader.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\bin\Debug\net9.0\ADAM5017Reader.dll
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\bin\Debug\net9.0\ADAM5017Reader.pdb
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.sourcelink.json
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.dll
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\refint\ADAM5017Reader.dll
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.pdb
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ADAM5017Reader.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\ADAM5017Reader\obj\Debug\net9.0\ref\ADAM5017Reader.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\bin\Debug\net9.0\SpeedReader.exe
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\bin\Debug\net9.0\SpeedReader.deps.json
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\bin\Debug\net9.0\SpeedReader.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\bin\Debug\net9.0\SpeedReader.dll
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\bin\Debug\net9.0\SpeedReader.pdb
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.sourcelink.json
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.dll
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\refint\SpeedReader.dll
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.pdb
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\SpeedReader.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\test\opc-success\SpeedReader\obj\Debug\net9.0\ref\SpeedReader.dll

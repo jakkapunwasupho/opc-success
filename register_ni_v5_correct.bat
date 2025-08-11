@@ -19,7 +19,7 @@ set NIPATH="C:\Program Files (x86)\National Instruments\Shared\NI OPC Servers\V5
 
 echo 3. Registering NI OPC V5 COM components...
 
-echo    - Registering OpcDaServer.dll...
+echo    - Registering OpcDaServer.dll
 regsvr32 /s %NIPATH%\OpcDaServer.dll
 if %ERRORLEVEL% == 0 (
     echo      ✅ OpcDaServer.dll registered
@@ -27,7 +27,7 @@ if %ERRORLEVEL% == 0 (
     echo      ❌ Failed to register OpcDaServer.dll
 )
 
-echo    - Registering server_runtime.exe...
+echo    - Registering server_runtime.exe
 regsvr32 /s %NIPATH%\server_runtime.exe
 if %ERRORLEVEL% == 0 (
     echo      ✅ server_runtime.exe registered

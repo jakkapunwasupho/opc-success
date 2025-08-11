@@ -1,5 +1,0 @@
-C:\Users\Lenovo\Desktop\testOPC\OpcRcwTest\obj\Debug\net9.0-windows\OpcRcwTest.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\testOPC\OpcRcwTest\obj\Debug\net9.0-windows\OpcRcwTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\Desktop\testOPC\OpcRcwTest\obj\Debug\net9.0-windows\OpcRcwTest.AssemblyInfoInputs.cache
-C:\Users\Lenovo\Desktop\testOPC\OpcRcwTest\obj\Debug\net9.0-windows\OpcRcwTest.AssemblyInfo.cs
-C:\Users\Lenovo\Desktop\testOPC\OpcRcwTest\obj\Debug\net9.0-windows\OpcRcwTest.csproj.CoreCompileInputs.cache

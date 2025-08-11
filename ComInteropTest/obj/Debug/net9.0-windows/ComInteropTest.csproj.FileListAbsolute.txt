@@ -1,5 +1,0 @@
-C:\Users\Lenovo\Desktop\testOPC\ComInteropTest\obj\Debug\net9.0-windows\ComInteropTest.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\testOPC\ComInteropTest\obj\Debug\net9.0-windows\ComInteropTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\Desktop\testOPC\ComInteropTest\obj\Debug\net9.0-windows\ComInteropTest.AssemblyInfoInputs.cache
-C:\Users\Lenovo\Desktop\testOPC\ComInteropTest\obj\Debug\net9.0-windows\ComInteropTest.AssemblyInfo.cs
-C:\Users\Lenovo\Desktop\testOPC\ComInteropTest\obj\Debug\net9.0-windows\ComInteropTest.csproj.CoreCompileInputs.cache
